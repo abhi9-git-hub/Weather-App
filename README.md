@@ -71,7 +71,6 @@ cd weather-app
 - Geolocation handling
 -Session storage usage
 - Dynamic data rendering in JavaScript
--
 
 ---
 
