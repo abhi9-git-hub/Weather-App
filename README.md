@@ -56,10 +56,10 @@ cd weather-app
 ## 📸 Screenshots
 
 ### 🌤️ Home Screen
-![Home](./images/screenshots/home.png.png)
+![Home](./images/screenshots.png/home.png.png)
 
 ### 🔍 Search Weather
-![Search](./images/screenshots/search.png.png)
+![Search](./images/screenshots.png/search.png.png)
 
 ---
 
