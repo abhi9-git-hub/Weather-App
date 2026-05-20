@@ -27,11 +27,10 @@ A modern and responsive Weather Application built using **HTML, CSS, and JavaScr
 ## 📂 Project Structure
 
 Weather-App/ 
-           │── weather.html 
+           │── index.html 
            │── weather.css 
            │── weather.js 
            │── images/ 
-           │── .gitignore
 
 ---
 
@@ -49,13 +48,8 @@ git clone https://github.com/abhi9-git-hub/weather-app.git
 cd weather-app
 ```
 
-3. Create a config.js file:
+3. Open weather.html in browser
 
-    export const API_KEY = "YOUR_API_KEY";
-
-4. Open weather.html in browser
-
- Note: API key is not included for security reasons.
 
 ---
 
