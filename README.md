@@ -48,8 +48,7 @@ git clone https://github.com/abhi9-git-hub/weather-app.git
 cd weather-app
 ```
 
-3. Open weather.html in browser
-
+3. Open index.html in browser
 
 ---
 
@@ -69,7 +68,7 @@ cd weather-app
 - Async/await in JavaScript
 - DOM manipulation
 - Geolocation handling
--Session storage usage
+- Session storage usage
 - Dynamic data rendering in JavaScript
 
 ---
@@ -78,3 +77,9 @@ cd weather-app
 
 Abhinav Tripathi
 GitHub: https://github.com/abhi9-git-hub/weather-app.git
+
+---
+
+## 🌐 Live Demo
+
+https://abhi9-weather-app.netlify.app/
