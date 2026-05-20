@@ -59,7 +59,7 @@ cd weather-app
 ![Home](./images/screenshots.png/home.png.png)
 
 ### 🔍 Search Weather
-![Search](./images/screenshots.png/search.png.png)
+![Search](./images/screenshots.png/searchWeather.png.png)
 
 ---
 
