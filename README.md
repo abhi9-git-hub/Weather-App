@@ -25,7 +25,13 @@ A modern and responsive Weather Application built using **HTML, CSS, and JavaScr
 ---
 
 ## 📂 Project Structure
-Weather-App/ │── weather.html │── weather.css │── weather.js │── images/ │── .gitignore
+
+Weather-App/ 
+           │── weather.html 
+           │── weather.css 
+           │── weather.js 
+           │── images/ 
+           │── .gitignore
 
 ---
 
