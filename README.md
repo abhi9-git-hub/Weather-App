@@ -43,31 +43,39 @@ git clone https://github.com/abhi9-git-hub/weather-app.git
 cd weather-app
 ```
 
-3.Create a config.js file:
+3. Create a config.js file:
 
- export const API_KEY = "YOUR_API_KEY";
+    export const API_KEY = "YOUR_API_KEY";
 
 4. Open weather.html in browser
 
- Note:API key is not included for security reasons.
+ Note: API key is not included for security reasons.
 
 ---
 
 ## 📸 Screenshots
 
 ### 🌤️ Home Screen
-![Home](./images/home.png)
+![Home](./images/screenshots/home.png.png)
 
 ### 🔍 Search Weather
-![Search](./images/search.png)
+![Search](./images/screenshots/search.png.png)
 
 ---
 
 🎯 Learning Outcomes
-API integration using fetch
-Async/await in JavaScript
-DOM manipulation
-Geolocation handling
+
+- API integration using fetch
+- Async/await in JavaScript
+- DOM manipulation
+- Geolocation handling
+-Session storage usage
+- Dynamic data rendering in JavaScript
+-
+
+---
+
 🙋‍♂️ Author
+
 Abhinav Tripathi
 GitHub: https://github.com/abhi9-git-hub⁠�
