@@ -83,4 +83,4 @@ cd weather-app
 🙋‍♂️ Author
 
 Abhinav Tripathi
-GitHub: https://github.com/abhi9-git-hub⁠�
+GitHub: https://github.com/abhi9-git-hub/weather-app.git
