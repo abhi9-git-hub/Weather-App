@@ -73,7 +73,7 @@ cd weather-app
 
 ---
 
-🙋‍♂️ Author
+🙋‍♂️ Developer
 
 Abhinav Tripathi
 GitHub: https://github.com/abhi9-git-hub/weather-app.git
